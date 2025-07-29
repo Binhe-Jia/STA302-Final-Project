@@ -35,7 +35,7 @@ We use multiple linear regression and various model diagnostics to determine how
 
 ## 👥 Contributors
 
-- **Binhe Jia** – Data analysis, modeling, and report writing  
+- **Binhe Jia** 
 - **William Kwan**  
 - **Xiaoxu (Rita) Liu**
 
