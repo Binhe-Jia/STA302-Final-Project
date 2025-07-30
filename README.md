@@ -27,19 +27,19 @@ We use multiple linear regression and various model diagnostics to determine how
 - Some categorical variables (e.g., `Functional`, `BldgType`, and `Neighborhood`) showed significant effects on pricing, particularly in the presence of major defects or high crime rates.
 - The final model achieved an **adjusted R² of 0.8561**, indicating strong explanatory power.
 
-## ⚠ Limitations
+##  Limitations
 
 - Dataset limited to a single city (Ames, Iowa); generalization is constrained.
 - Some multicollinearity observed (VIF ~5), though considered manageable.
 - Influential points were retained due to their contextual importance despite minor influence.
 
-## 👥 Contributors
+##  Contributors
 
 - **Binhe Jia** 
 - **William Kwan**  
 - **Xiaoxu (Rita) Liu**
 
-## 📚 References
+##  References
 
 - Kaggle Dataset: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 - Multiple academic sources and economic reports cited in the final report PDF.
